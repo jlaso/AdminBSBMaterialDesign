@@ -1,0 +1,8 @@
+{
+    "name": "gurayyarar/AdminBSBMaterialDesign",
+    "type": "theme",
+    "description": "AdminBSBMaterialDesign",
+    "keywords": ["themes", "material"],
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
